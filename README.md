@@ -1,2 +1,6 @@
 # Mail extractor
- It's a simple tkinter application which fill find almost all possible Mail address.
+It's a simple tkinter application which will find almost all possible Mail address.
+
+Modules used:
+  . tkinter
+  . re
