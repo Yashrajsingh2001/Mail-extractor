@@ -2,8 +2,7 @@
 It is a simple Tkinter application which will find almost all possible Mail address.
 
 Modules used:
-tkinter 
-re
+tkinter and re
 
 When we will run our Mail_Extractor.py file, a Tkinter window will pop up.
 You can simply paste the text in the Entry field form which you want to extract mail address and press on Submit button to extract the Mails.
